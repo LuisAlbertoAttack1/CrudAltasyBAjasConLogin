@@ -1,0 +1,53 @@
+.tamañoDeImg{
+
+    width: 3rem;
+    height: 4rem;
+}
+
+.ColorDeBoton{
+    background:rgba(138,221,45,0);
+}
+.tamañoDeImgGif{
+    width: 25rem;
+    height: 25rem;
+}
+.TamañoDeImgPersonas{
+    width: 5rem;
+    height: 5rem;
+}
+.tamañoDeImgEntrar{
+    width: 3rem;
+    height: 3rem;
+}
+.btncolor{
+    background-color: #e9ecef;
+}
+.tipoLetra{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fondoPrincipal{
+    background-color: #e9ecef;
+}
+.tamañoPersonas{
+    width: 25rem;
+    height: 20rem;
+}
+.tamañoCardTable{
+    width: 90rem;
+}
+
+.tamañoSeccionDeTable{
+    width: 10rem;
+    height: 8rem;
+}
+.tamañoRadius{
+    width: 5rem;
+    height: 4rem;
+}
+.tamañoCompra{
+    width: 5rem;
+    height: 4rem;
+}
+.tamañoCardTableAñadir{
+    width: 70rem;
+}
